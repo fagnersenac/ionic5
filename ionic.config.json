@@ -1,5 +1,7 @@
 {
-  "name": "Ionic5Firebase",
-  "integrations": {},
+  "name": "Ionic4Firebase",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
